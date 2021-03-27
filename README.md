@@ -78,7 +78,8 @@ The 'install-elk.yml' playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![image](https://user-images.githubusercontent.com/81325191/112725659-ff2daf00-8ede-11eb-898e-140a874b5754.png)
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
